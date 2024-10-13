@@ -9,5 +9,6 @@ adherence to best practices in cloud infrastructure. (Infrastructure-as-code). A
 
 <img width="1412" alt="Screenshot 2024-10-13 at 7 17 33 PM" src="https://github.com/user-attachments/assets/cee8c663-9459-479d-9fc3-504beb6b4a12">
 
+<img width="1440" alt="Screenshot 2024-10-13 at 7 13 49 PM" src="https://github.com/user-attachments/assets/e336c28b-4124-4433-9f98-8d5fe32be2c2">
 
 
